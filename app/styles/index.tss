@@ -1,0 +1,56 @@
+"#index": {
+	backgroundColor: "#fff"
+},
+ 
+"Button" : {
+	width: '15%',
+	height: 50,
+	borderRadius: 5,
+	borderColor: '#000',
+	color: '#fff'
+},
+ 
+"#redButton1" : {
+	top: 50,
+	backgroundColor: '#f00',
+},
+ 
+"#greenButton1" : {
+	top: 200,
+	backgroundColor: '#690',
+},
+ 
+"#blueButton1" : {
+	top: 350,
+	backgroundColor: '#39f',
+},
+
+"#redButton2" : {
+	top: 50,
+	backgroundColor: '#f00',
+},
+ 
+"#greenButton2" : {
+	top: 200,
+	backgroundColor: '#690',
+},
+ 
+"#blueButton2" : {
+	top: 350,
+	backgroundColor: '#39f',
+},
+
+"#redButton3" : {
+	top: 50,
+	backgroundColor: '#f00',
+},
+ 
+"#greenButton3" : {
+	top: 200,
+	backgroundColor: '#690',
+},
+ 
+"#blueButton3" : {
+	top: 350,
+	backgroundColor: '#39f',
+}

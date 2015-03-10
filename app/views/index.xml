@@ -1,0 +1,13 @@
+<Alloy>
+	<Window id="index">
+		
+		<Button id="cobButton" title='COB' left="30" />
+		<Button id="calendarButton" title="Calendar" left="30" />
+		<Button id="contactButton" title="Contact Us" left="30" />
+		
+		<Button id="redButton2" title="Red" center="0" />
+		<Button id="greenButton2" title="Green" center="0" />
+		<Button id="blueButton2" title="Blue" center="0" />
+		
+	</Window>
+</Alloy>>
